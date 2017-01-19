@@ -1,7 +1,7 @@
 <?php ob_start() ?>
-
+			
       <form name="formBusqueda" action="index.php?ctl=buscarAlimentosPorEnergia" method="POST">
-
+					Formulario de busqueda de alimentos por energía expresada en Kcal
           <table>
               <tr>
                   <td>Energia del alimento:</td>
